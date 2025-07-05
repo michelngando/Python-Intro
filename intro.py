@@ -106,7 +106,7 @@ students_list.append("Luis")
 print(f"Adding a value to the list: {students_list}")
 
 students_list.remove("Luis")
-print(f"Removeng the 1st occurence of a value from the list: {students_list}")
+print(f"Removing the 1st occurence of a value from the list: {students_list}")
 
 print(f"Printing the lenght of the list: {len(students_list)}")
 
